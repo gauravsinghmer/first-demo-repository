@@ -1,4 +1,4 @@
 # first-demo-repository
-this is my first Git repository.
+This is my first Git repository.
 <br>
-author - gaurav mer 
+Author - gaurav mer 
